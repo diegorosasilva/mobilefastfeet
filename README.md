@@ -4,5 +4,7 @@
     FastFeet Mobile (React Native)
 </h1>
 
+Este projeto foi desenvolvido como desafio final, para conclusão do Bootcamp GoStack, da RocketSeat.
+
 ## :memo: Observações
 Este projeto foi desenvolvido apenas para dispositivos com sistema operacional Android.
